@@ -7,7 +7,7 @@ _
 
 ## Reading Discussion
 
-_Data science outcomes involve making decisions about people's lives using personal data. Because Data Science is often used to make money, there are several mal-practices that negatively affect others whether intentional or not. These include biases in machine learning algorithms, p-hacking, and mis-using people's information. Data science ethics must be studied and actively discussed among the data science community as well as everyone else it affects._
+_Data science outcomes involve making decisions about people's lives using personal data. Because Data Science is often used to make money, there are several mal-practices that negatively affect others whether intentional or not. These include biases in machine learning algorithms, p-hacking, and misusing people's information. Data science ethics must be studied and actively discussed among the data science community as well as everyone else it affects._
 
 ## References
 
